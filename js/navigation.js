@@ -1,8 +1,8 @@
 /**
- * File navigation.js.
+ * navigation.js
  *
- * Handles toggling the navigation menu for small screens and enables TAB key
- * navigation support for dropdown menus.
+ * Handles toggling the navigation menu for small screens and enables tab
+ * support for dropdown menus.
  */
 ( function( $ ) {
 	var container, button, menu, links, subMenus;
@@ -110,4 +110,28 @@
 			});
 		}
 	});
+	
+	// Hide/show toggle button on scroll
+
+	var position, direction, previous;
+
+	$(window).scroll(function(){
+		if( $(this).scrollTop() >= position ){
+			direction = 'down';
+			if(direction !== previous){
+				$('.menu-toggle').addClass('hide');
+				
+				previous = direction;
+			}
+		} else {
+			direction = 'up';
+			if(direction !== previous){
+				$('.menu-toggle').removeClass('hide');
+				
+				previous = direction;
+			}
+		}
+		position = $(this).scrollTop();
+	});
+	
 } )( jQuery );
