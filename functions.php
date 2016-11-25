@@ -128,7 +128,9 @@ function mattsterp_scripts() {
 	// Add Font Awesome icons (http://fontawesome.io) 
 	wp_enqueue_style( 'mattsterp-fontawesome', 'https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css' );
 	
-	wp_enqueue_script( 'mattsterp-navigation', get_template_directory_uri() . '/js/navigation.js', array( 'jquery' ), '20120206', true );
+	// wp_enqueue_script( 'mattsterp-navigation', get_template_directory_uri() . '/js/navigation.js', array( 'jquery' ), '20120206', true );
+	wp_enqueue_script( 'mattsterp-navigation', get_template_directory_uri() . '/js/function.js', array( 'jquery' ), '20120206', true );
+
 	wp_localize_script( 'mattsterp-navigation', 'screenReaderText', array(
 		'expand'   => '<span class="screen-reader-text">' . __( 'expand child menu', 'mattsterp' ) . '</span>',
 		'collapse' => '<span class="screen-reader-text">' . __( 'collapse child menu', 'mattsterp' ) . '</span>',
