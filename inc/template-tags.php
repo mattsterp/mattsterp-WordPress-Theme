@@ -273,7 +273,7 @@ function mattsterp_paging_nav() {
 		'format'   => $format,
 		'total'    => $wp_query->max_num_pages,
 		'current'  => $paged,
-		'mid_size' => 1,
+		'mid_size' => 4,
 		'add_args' => array_map( 'urlencode', $query_args ),
 		'prev_text' => __( '&larr; Previous', 'mattsterp' ),
 		'next_text' => __( 'Next &rarr;', 'mattsterp' ),

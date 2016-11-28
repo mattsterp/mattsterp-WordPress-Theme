@@ -17,7 +17,7 @@
 		<div class="site-info">
 			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'mattsterp' ) ); ?>"><?php printf( esc_html__( 'Proudly powered by %s', 'mattsterp' ), 'WordPress' ); ?></a>
 			<span class="sep"> | </span>
-			<?php printf( esc_html__( 'Theme: %1$s by %2$s.', 'mattsterp' ), 'mattsterp', '<a href="http://lynda.com/mor10" rel="designer">Morten Rand-Hendriksen</a>' ); ?>
+			<?php printf( esc_html__( 'Theme: %1$s by %2$s.', 'mattsterp' ), 'mattsterp', '<a href="http://github.com/mattsterp" rel="designer">Matthew J Peters</a>' ); ?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->

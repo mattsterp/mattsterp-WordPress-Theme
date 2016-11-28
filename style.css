@@ -4,7 +4,7 @@ Theme URI: http://mattsterp.com/
 Author: Matthew J Peters
 Author URI: http://mattsterp.com
 Description: Matthew Peters website theme.
-Version: 0.0.1
+Version: 0.0.5
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: mattsterp
@@ -854,7 +854,7 @@ a:active {
 }
 
 /*--------------------------------------------------------------
-## Other Navigation
+Ff
 --------------------------------------------------------------*/
 .comment-navigation,
 .post-navigation,
@@ -1476,6 +1476,7 @@ a:active {
 		margin: 1.8em auto;
 	}
 }
+
 
 /*--------------------------------------------------------------
 ## Indexes

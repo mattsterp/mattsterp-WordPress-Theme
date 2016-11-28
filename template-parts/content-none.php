@@ -13,7 +13,6 @@
 	<header class="page-header">
 		<h1 class="page-title">
 			<?php 
-			if ( is_404() ) { esc_html_e( 'Page not available', 'mattsterp' );
 			} else if ( is_search() ) {
 				/* translators: %s = search query */
 				printf( esc_html__( 'Nothing found for &ldquo;%s&rdquo;', 'mattsterp'), '<em>' . get_search_query() . '</em>' );

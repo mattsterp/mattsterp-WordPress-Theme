@@ -21,7 +21,7 @@ function mattsterp_customize_register( $wp_customize ) {
 	
 	// Create header background color setting
 	$wp_customize->add_setting( 'header_color', array(
-		'default' => '#000000',
+		'default' => '#563F7A',
 		'type' => 'theme_mod',
 		'sanitize_callback' => 'sanitize_hex_color',
 		'transport' => 'postMessage',
