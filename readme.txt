@@ -1,19 +1,19 @@
 === mattsterp ===
 
-Contributors: automattic
+Contributors: Matthew J Peters (mattsterp)
 Tags: translation-ready, custom-background, theme-options, custom-menu, post-formats, threaded-comments
-
+Features: 
 Requires at least: 4.0
 Tested up to: 4.5.3
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A starter theme called mattsterp, or underscores.
+A starter theme called mattsterp.
 
 == Description ==
 
-Hi. I'm a starter theme called mattsterp, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
+Hi. I'm a starter theme called mattsterp. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
 
 == Installation ==
 
@@ -33,6 +33,7 @@ mattsterp includes support for Infinite Scroll in Jetpack.
 * Initial release
 
 == Credits ==
-
+* Matthew J Peters (c) 2015-2017 mattsterp.com *
 * Based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
 * normalize.css http://necolas.github.io/normalize.css/, (C) 2012-2016 Nicolas Gallagher and Jonathan Neal, [MIT](http://opensource.org/licenses/MIT)
+* Based experience earned while learning with Morten Rand-Hendriksen of Lynda.com *
