@@ -36,4 +36,4 @@ mattsterp includes support for Infinite Scroll in Jetpack.
 * Matthew J Peters (c) 2015-2017 mattsterp.com *
 * Based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
 * normalize.css http://necolas.github.io/normalize.css/, (C) 2012-2016 Nicolas Gallagher and Jonathan Neal, [MIT](http://opensource.org/licenses/MIT)
-* Based experience earned while learning with Morten Rand-Hendriksen of Lynda.com *
+* Based experience earned while learning with Morten Rand-Hendriksen on Lynda.com *
