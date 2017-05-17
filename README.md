@@ -5,6 +5,9 @@ Mattsterp is an accessible content-first theme built around beautiful fonts and 
 ### Article Decks
 To display an article deck (short one-paragraph synopsis displayed after post title, but before post meta), add a custom excerpt to the post.
 
+### Custom Responsive Menu
+
+
 ### Customizer Options
 Extended options available from the Customizer:
 
@@ -29,8 +32,8 @@ Blockquotes can be alined left or right by applying the "alignleft" or "alignrig
 
 ### Licenses and External Assets
 Mattsterp is distributed under the terms of the GNU GPL v2
-Built from the Lynda.com course WordPress: Building Themes From Scratch Using Underscores by [Morten Rand-Hendriksen](http://mor10.com).
-Mattsterp code base started out as _s (http://underscores.me) as it were on November 13, 2015.
+Built from the Lynda.com course WordPress:Building Themes From Scratch Using Underscores by [Morten Rand-Hendriksen](http://mor10.com).
+Mattsterp code base started out as _s (http://underscores.me)
 
 The theme features three custom fonts:
 Fira Sans: https://www.google.com/fonts/specimen/Fira+Sans SIL Open Font Licence 1.1 http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
