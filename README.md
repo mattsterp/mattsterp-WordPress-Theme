@@ -32,9 +32,8 @@ Blockquotes can be alined left or right by applying the "alignleft" or "alignrig
 
 ### Licenses and External Assets
 Mattsterp is distributed under the terms of the GNU GPL v2
-Built from the Lynda.com course WordPress:Building Themes From Scratch Using Underscores by [Morten Rand-Hendriksen](http://mor10.com).
 Mattsterp code base started out as _s (http://underscores.me)
-
+Based on Building Themes From Scratch Using Underscores by [Morten Rand-Hendriksen](http://mor10.com).
 The theme features three custom fonts:
 Fira Sans: https://www.google.com/fonts/specimen/Fira+Sans SIL Open Font Licence 1.1 http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 Merriweather: https://www.google.com/fonts/specimen/Merriweather SIL Open Font Licence 1.1 http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
