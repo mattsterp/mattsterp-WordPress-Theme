@@ -1,5 +1,5 @@
 # Mattsterp
-Mattsterp is an accessible content-first theme built around beautiful fonts and lots of white space designed and developed by [Matthew Peters.
+Mattsterp is an accessible content-first theme built around beautiful fonts and lots of white space designed and developed by Matthew Peters.
 ## Features
 
 ### Article Decks
