@@ -1,5 +1,5 @@
 # Mattsterp
-Mattsterp is an accessible content-first WordPress theme built around beautiful fonts and lots of white space designed and developed by Matthew Peters.
+Mattsterp is an accessible content-first WordPress theme built around beautiful customizable fonts, with plenty of white space.  Designed and developed by Matthew Peters.
 ## Features
 
 ### Article Decks
@@ -11,7 +11,7 @@ To display an article deck (short one-paragraph synopsis displayed after post ti
 ### Customizer Options
 Extended options available from the Customizer:
 
-1. Full control over typograhpy featuring google fonts
+1. Full control over typography featuring google fonts
 2. Site Icon displays as logo in top-right corner
 3. Header background color
 4. Header text color
