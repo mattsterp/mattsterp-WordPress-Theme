@@ -11,11 +11,12 @@ To display an article deck (short one-paragraph synopsis displayed after post ti
 ### Customizer Options
 Extended options available from the Customizer:
 
-1. Site Icon displays as logo in top-right corner
-2. Header background color
-3. Header text color
-4. Optional Header image
-5. Sidebar position: no sidebar (default), left, or right.
+1. Full control over typograhpy featuring google fonts
+2. Site Icon displays as logo in top-right corner
+3. Header background color
+4. Header text color
+5. Optional Header image
+6. Sidebar position: no sidebar (default), left, or right.
 
 ### Featured Images
 Posts and pages can have Featured Images.
