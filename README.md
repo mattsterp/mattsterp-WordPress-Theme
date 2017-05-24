@@ -11,7 +11,7 @@ To display an article deck (short one-paragraph synopsis displayed after post ti
 ### Customizer Options
 Extended options available from the Customizer:
 
-1. Featuring Ubuntu Google fonts
+1. Featuring Ubuntu Google font
 2. Site Icon displays as logo in top-right corner
 3. Header background color
 4. Header text color
