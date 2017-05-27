@@ -12,11 +12,12 @@ To display an article deck (short one-paragraph synopsis displayed after post ti
 Extended options available from the Customizer:
 
 1. Featuring Ubuntu Google font
-2. Site Icon displays as logo in top-right corner
-3. Header background color
-4. Header text color
-5. Optional Header image
-6. Sidebar position: no sidebar (default), left, or right.
+2. Site Icon displays as logo in top-left corner
+3. User friendly mobile navigation
+4. Header background color
+5. Header text color
+6. Optional Header image
+7. Sidebar position: no sidebar (default), left, or right.
 
 ### Featured Images
 Posts and pages can have Featured Images.
@@ -38,4 +39,3 @@ Based on Building Themes From Scratch Using Underscores by [Morten Rand-Hendriks
 The theme features the Ubuntu Google font:
 https://fonts.google.com/specimen/Ubuntu
 Icons from FontAwesome: Published under various licenses http://fortawesome.github.io/Font-Awesome/license/
-
